@@ -5,3 +5,4 @@ This is a test for ssh connection.
 This is another test for ssh connection.
 This is the third test for ssh connection.
 A new day.
+试试看能不能用中文
