@@ -6,3 +6,4 @@ This is another test for ssh connection.
 This is the third test for ssh connection.
 A new day.
 试试看能不能用中文
+Creating a new branch is quick & simple.
