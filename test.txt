@@ -12,3 +12,4 @@ Draw a picture.
 Add a branch name gaohan.
 Test for stash.
 Test for push single or multiable.
+Test for tag.
