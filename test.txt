@@ -7,3 +7,4 @@ This is the third test for ssh connection.
 A new day.
 试试看能不能用中文
 Creating a new branch is quick and simple.
+Test for merge.
