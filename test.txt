@@ -13,3 +13,4 @@ Add a branch name gaohan.
 Test for stash.
 Test for push single or multiable.
 Test for tag.
+Test for git ui color.
